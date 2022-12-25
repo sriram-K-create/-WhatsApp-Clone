@@ -1,5 +1,4 @@
-# WhatsApp Clone <code><img width="40px" src="https://icons8.com/icon/16713/whatsapp" title="Whatsapp"/></code>
-
+# WhatsApp Clone 
 ## Table of contents
 
 - [General ](#general-info)
