@@ -1,4 +1,4 @@
-# WhatsApp Clone <code><img width="40px" src="https://icons8.com/icon/BkugfgmBwtEI/whatsapp" title="Whatsapp"/></code>
+# WhatsApp Clone <code><img width="40px" src="![image](https://user-images.githubusercontent.com/67730995/209482421-473ac28f-5c2d-468d-b92c-20af5a3877f0.png)" title="Whatsapp"/></code>
 
 ## Table of contents
 
